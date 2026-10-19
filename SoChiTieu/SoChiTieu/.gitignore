@@ -1,0 +1,11 @@
+# Cấu hình chứa mật khẩu - KHÔNG đưa lên Git (dùng appsettings.example.json làm mẫu)
+appsettings.json
+appsettings.Development.json
+
+# Build / IDE
+bin/
+obj/
+publish/
+Logs/
+.vs/
+*.user
